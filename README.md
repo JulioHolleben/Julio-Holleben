@@ -1,7 +1,7 @@
 <h1>
-  <a href="https://github.com/JulioHolleben/JulioHolleben/blob/main/README.md">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=ffff00&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Julio+Holleben;Welcome+to+my+Github"/>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=ffff00&center=true&vCenter=true&width=1000&lines=Currently%2C+I+am+a+Database+student"/>
+  <a href="https://github.com/JulioHolleben/Julio-Holleben/blob/main/README.md">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=FFFF00&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Julio+Holleben;Welcome+to+my+Github"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=FFFF00&center=true&vCenter=true&width=1000&lines=Currently%2C+i+am+a+database+student."/>
   </a>
 </h1>
 
@@ -13,13 +13,13 @@
 
 - 🔭 Atualmente estou buscando meu primeiro emprego na area  
 
-- 🌱 Atualmente estou focado em aprender **SQL** 
+- 🌱 Atualmente estou focado em aprender sobre **SQL** 
 
  
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/julio-holleben-3298501ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="IagoCappeletti-b89a791b3" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/julioholleben/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="IagoCappeletti" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/julio-holleben-3298501ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JulioHolleben-b89a791b3" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/julioholleben/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="JulioHolleben" height="30" width="40" /></a>
 </p>
 
 
