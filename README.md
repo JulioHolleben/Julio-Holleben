@@ -1,7 +1,7 @@
 <h1>
   <a href="https://github.com/JulioHolleben/Julio-Holleben/blob/main/README.md">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=FFFF00&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Julio+Holleben;Welcome+to+my+Github"/>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=FFFF00&center=true&vCenter=true&width=1000&lines=Currently%2C+i+am+a+database+student."/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=FFFF00&center=true&vCenter=true&width=1000&lines=Currently%2C+i+am+a+Database+student."/>
   </a>
 </h1>
 
