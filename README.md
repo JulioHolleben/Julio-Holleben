@@ -7,7 +7,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=JulioHolleben&label=Profile%20views&color=0e75b6&style=flat" alt="JulioHolleben" /></p>
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/b9/5b/17/b95b173915ab31781ca6ec353b83ab85.gif" />
+<img align="right" height="150" src="https://media.wired.com/photos/641337bd5e3ab3be4fe3e789/master/w_1600,c_limit/sql_normal.gif" />
 
 - 💻 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas - Uniritter 
 
@@ -27,7 +27,6 @@
 <p align="center">
  <ahref="https://www.w3.org/html/" target="_blank" rel="norefer rer"> <img src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/08/com031.jpg" alt="html5" width="47" height="47"/>
  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.tutorialsteacher.com/Content/images/home/sql.png" alt="css3" width="47" height="47"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/2560px-PhpMyAdmin_logo.svg.png" alt="css3" width="47" height="47"/> </a>  
 
 <p align="center">
